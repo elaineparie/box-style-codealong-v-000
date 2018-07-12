@@ -363,4 +363,8 @@ section {
   color: red;
 }
 
+#details {
+  border-top: 1px solid white;
+}
+
 /*////////// FOOTER //////////*/
